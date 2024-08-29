@@ -3,3 +3,9 @@ WARNING:root:There can be an empty list here
 CRITICAL:root:Some error has happened
 ERROR:root:Some error has occured
 CRITICAL:root:The sofware has stopped running
+INFO:root:This is my info msg 
+WARNING:root:A warning!
+INFO:root:This is my info msg 
+WARNING:root:A warning!
+INFO:root:This is my info msg 
+WARNING:root:A warning!

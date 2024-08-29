@@ -1,0 +1,36 @@
+2024-08-29 22:01:42,026 DEBUG  This msg is for debugging
+2024-08-29 22:01:42,026 INFO  This is my info msg 
+2024-08-29 22:01:42,026 WARNING  A warning!
+2024-08-29 22:14:30,137 INFO  processing each element 1
+2024-08-29 22:14:30,138 INFO  processing each element hello
+2024-08-29 22:14:30,138 INFO  processing each element [2, 'coking']
+2024-08-29 22:14:30,138 INFO  processing sublist element: 2
+2024-08-29 22:14:30,138 INFO  processing sublist element: coking
+2024-08-29 22:14:30,138 INFO  processing each element 4
+2024-08-29 22:14:30,138 INFO  processing each element [3, 'PyCharm']
+2024-08-29 22:14:30,139 INFO  processing sublist element: 3
+2024-08-29 22:14:30,139 INFO  processing sublist element: PyCharm
+2024-08-29 22:14:30,139 INFO  The result is : [1, 2, 4, 3],['hello']
+2024-08-29 22:15:01,611 INFO  processing each element 1
+2024-08-29 22:15:01,612 INFO  processing each element hello
+2024-08-29 22:15:01,612 INFO  processing each element [2, 'coking']
+2024-08-29 22:15:01,612 INFO  processing sublist element: 2
+2024-08-29 22:15:01,612 INFO  processing sublist element: coking
+2024-08-29 22:15:01,612 INFO  processing each element 4
+2024-08-29 22:15:01,612 INFO  processing each element [3, 'PyCharm']
+2024-08-29 22:15:01,612 INFO  processing sublist element: 3
+2024-08-29 22:15:01,612 INFO  processing sublist element: PyCharm
+2024-08-29 22:15:01,612 INFO  The result is : [1, 2, 4, 3],['hello']
+2024-08-29 22:15:05,347 DEBUG  This msg is for debugging
+2024-08-29 22:15:05,347 INFO  This is my info msg 
+2024-08-29 22:15:05,348 WARNING  A warning!
+2024-08-29 22:15:07,970 INFO  processing each element 1
+2024-08-29 22:15:07,970 INFO  processing each element hello
+2024-08-29 22:15:07,971 INFO  processing each element [2, 'coking']
+2024-08-29 22:15:07,971 INFO  processing sublist element: 2
+2024-08-29 22:15:07,971 INFO  processing sublist element: coking
+2024-08-29 22:15:07,971 INFO  processing each element 4
+2024-08-29 22:15:07,971 INFO  processing each element [3, 'PyCharm']
+2024-08-29 22:15:07,971 INFO  processing sublist element: 3
+2024-08-29 22:15:07,971 INFO  processing sublist element: PyCharm
+2024-08-29 22:15:07,972 INFO  The result is : [1, 2, 4, 3],['hello']
